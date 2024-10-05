@@ -81,6 +81,7 @@
         <p><a class="button-link" href="https://us05web.zoom.us/j/3798389481?pwd=TuqaEVBGi2Uwjh6TXe6waNiayYPaBf.1&omn=81491257461" target="_blank">Click <span class="bold-here">here</span> to join the Zoom Meeting</a></p>
         <p><a class="button-link" href="https://trello.com/invite/b/66f954c797f5e6e7242ff979/ATTI8042b2b7a8f933fa679ca75826986d40003B3D20/CIC%20Europe" target="_blank">Click <span class="bold-here">here</span> to visit the Trello Board</a></p>
         <p style="margin-top: 20px;">Zoom Meeting Details:</p>
+        <p><a class="button-link" href="https://docs.google.com/document/d/1Ij7nHDYxZD8wL9fG9Z4CH1Bd6NDbVqr7XVZv1vIY3ko/edit?usp=sharing" target="_blank">Click <span class="bold-here">here</span> For Virtual Meeting Agenda</a></p>
         <p>Meeting ID: 379 838 9481</p>
         <p>Passcode: 1234</p>
     </div>
