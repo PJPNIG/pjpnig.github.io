@@ -65,7 +65,7 @@
          <img src="https://i.postimg.cc/qNb2tMMn/flag-flip-shadow-final.jpg" alt="CIC Alumni Association Europe">
         
         <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
-        <a data-type="countdown" data-id="5905176" class="tickcounter" title="Meeting Countdown" href="//www.tickcounter.com/">Zoom Meeting</a>
+        <a data-type="countdown" data-id="5905176" class="tickcounter" title="Zoom Meeting" href="//www.tickcounter.com/">Meeting Countdown</a>
         
         <p>Dear CIC Alumni Association Europe members,</p>
         <p>We cordially invite you to our first-ever virtual meeting on Saturday, October 5th, at 8:00 PM.</p>
