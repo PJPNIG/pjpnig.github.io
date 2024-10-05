@@ -86,6 +86,3 @@
     </div>
 </body>
 </html>
-```
-
-This updated script should make the text more legible on mobile devices and ensure the webpage fits correctly on the screen without needing to pinch to zoom.
