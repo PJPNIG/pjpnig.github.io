@@ -9,6 +9,7 @@
             font-family: Arial, sans-serif;
             line-height: 1.6;
             color: #00008b;
+            font-size: 1.2em; /* Increased text size */
         }
         .container {
             max-width: 800px;
@@ -21,10 +22,11 @@
         h1 {
             color: #0000cd;
             text-align: center;
+            font-size: 2em; /* Increased heading size */
         }
         img, .tickcounter {
             display: block;
-            width: 100%;
+            width: 40%; /* Image reduced by 60% */
             max-width: 400px;
             height: auto;
             margin: 20px auto;
@@ -40,7 +42,8 @@
         .button-link {
             background-color: #0066ff;
             color: white;
-            padding: 7px 12px;
+            padding: 10px 15px; /* Increased padding for buttons */
+            font-size: 1.1em; /* Increased button text size */
             text-align: center;
             text-decoration: none;
             display: inline-block;
