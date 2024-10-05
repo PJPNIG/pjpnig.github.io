@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>CIC Alumni Association Europe Virtual Meeting</title>
     <style>
         body {
@@ -9,7 +10,7 @@
             font-family: Arial, sans-serif;
             line-height: 1.6;
             color: #00008b;
-            font-size: 1.2em; /* Increased text size */
+            font-size: 16px; /* Base font size */
         }
         .container {
             max-width: 800px;
@@ -22,11 +23,11 @@
         h1 {
             color: #0000cd;
             text-align: center;
-            font-size: 2em; /* Increased heading size */
+            font-size: 2em;
         }
         img, .tickcounter {
             display: block;
-            width: 40%; /* Image reduced by 60% */
+            width: 40%;
             max-width: 400px;
             height: auto;
             margin: 20px auto;
@@ -42,8 +43,8 @@
         .button-link {
             background-color: #0066ff;
             color: white;
-            padding: 10px 15px; /* Increased padding for buttons */
-            font-size: 1.1em; /* Increased button text size */
+            padding: 10px 15px;
+            font-size: 1.1em;
             text-align: center;
             text-decoration: none;
             display: inline-block;
@@ -56,6 +57,9 @@
             font-weight: bold;
             color: red;
         }
+        .text-content {
+            font-size: 1.25em; /* Increased font size for the text content */
+        }
     </style>
 </head>
 <body>
@@ -67,14 +71,16 @@
         <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
         <a data-type="countdown" data-id="5905176" class="tickcounter" title="Meeting Countdown" href="//www.tickcounter.com/">Meeting Countdown</a>
         
-        <p>Dear CIC Alumni Association Europe members,</p>
-        <p>We cordially invite you to our first-ever virtual meeting on Saturday, October 5th, at 8:00 PM.</p>
-        <p>This meeting will be held simultaneously on both Zoom and Trello, and we kindly request that all attendees have the necessary accounts and applications set up in advance.</p>
-        <p>As members of the CIC Alumni Association Europe, your presence and participation are of the utmost importance. This virtual gathering will provide an opportunity for us to reconnect, share updates, and discuss the future of our esteemed organization.</p>
-        <p>We encourage all alumni to download the Zoom and Trello apps and create their accounts prior to the meeting. This will ensure a smooth and efficient experience for everyone involved.</p>
-        <p>The meeting is expected to last approximately 1.5 hours, and we look forward to your active engagement throughout the proceedings.</p>
-        <p>We are excited to embark on this new virtual chapter and hope to see as many of our alumni as possible in attendance.</p>
-        <p>Best regards,<br>PJP for<br>The CIC Alumni Association Europe</p>
+        <div class="text-content">
+            <p>Dear CIC Alumni Association Europe members,</p>
+            <p>We cordially invite you to our first-ever virtual meeting on Saturday, October 5th, at 8:00 PM.</p>
+            <p>This meeting will be held simultaneously on both Zoom and Trello, and we kindly request that all attendees have the necessary accounts and applications set up in advance.</p>
+            <p>As members of the CIC Alumni Association Europe, your presence and participation are of the utmost importance. This virtual gathering will provide an opportunity for us to reconnect, share updates, and discuss the future of our esteemed organization.</p>
+            <p>We encourage all alumni to download the Zoom and Trello apps and create their accounts prior to the meeting. This will ensure a smooth and efficient experience for everyone involved.</p>
+            <p>The meeting is expected to last approximately 1.5 hours, and we look forward to your active engagement throughout the proceedings.</p>
+            <p>We are excited to embark on this new virtual chapter and hope to see as many of our alumni as possible in attendance.</p>
+            <p>Best regards,<br>PJP for<br>The CIC Alumni Association Europe</p>
+        </div>
         <p><a class="button-link" href="https://us05web.zoom.us/j/3798389481?pwd=TuqaEVBGi2Uwjh6TXe6waNiayYPaBf.1&omn=81491257461" target="_blank">Click <span class="bold-here">here</span> to join the Zoom Meeting</a></p>
         <p><a class="button-link" href="https://trello.com/invite/b/66f954c797f5e6e7242ff979/ATTI8042b2b7a8f933fa679ca75826986d40003B3D20/CIC%20Europe" target="_blank">Click <span class="bold-here">here</span> to visit the Trello Board</a></p>
         <p style="margin-top: 20px;">Zoom Meeting Details:</p>
