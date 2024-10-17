@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CIC Alumni Association Europe Virtual Meeting</title>
+    <title>EOYP REGISTRATION</title>
     <style>
         body {
             background-color: #f0f8ff;
@@ -63,27 +63,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>CIC Alumni Association Europe Virtual Meeting</h1>
+        <h1>EOYP REGISTRATION</h1>
 
-         <img src="https://i.postimg.cc/qNb2tMMn/flag-flip-shadow-final.jpg" alt="CIC Alumni Association Europe">
+         <img src="https://i.postimg.cc/qNb2tMMn/flag-flip-shadow-final.jpg" alt="EOYP REGISTRATION">
 
-        <script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
-        <a data-type="countdown" data-id="5905176" class="tickcounter" title="Meeting Countdown" href="//www.tickcounter.com/">Meeting Countdown</a>
+<script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="5969422" class="tickcounter" style="display:block; left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto;" title="Countdown to EOYP" href="//www.tickcounter.com/">Countdown to EOYP</a>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJxhOkybz_ZA0ygd0wLzISUxHU4dK-Elwvk0ZpTj3iyyHq9w/viewform?embedded=true" width="640" height="2697" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-        <p class="larger-text">Dear CIC Alumni Association Europe members,</p>
-        <p class="larger-text">We cordially invite you to our first-ever virtual meeting on Saturday, October 5th, at 8:00 PM.</p>
-        <p class="larger-text">This meeting will be held simultaneously on both Zoom and Trello, and we kindly request that all attendees have the necessary accounts and applications set up in advance.</p>
-        <p class="larger-text">As members of the CIC Alumni Association Europe, your presence and participation are of the utmost importance. This virtual gathering will provide an opportunity for us to reconnect, share updates, and discuss the future of our esteemed organization.</p>
-        <p class="larger-text">We encourage all alumni to download the Zoom and Trello apps and create their accounts prior to the meeting. This will ensure a smooth and efficient experience for everyone involved.</p>
-        <p class="larger-text">The meeting is expected to last approximately 1.5 hours, and we look forward to your active engagement throughout the proceedings.</p>
-        <p class="larger-text">We are excited to embark on this new virtual chapter and hope to see as many of our alumni as possible in attendance.</p>
-        <p class="larger-text">Best regards,<br>PJP for<br>The CIC Alumni Association Europe</p>
-        <p><a class="button-link" href="https://us05web.zoom.us/j/3798389481?pwd=TuqaEVBGi2Uwjh6TXe6waNiayYPaBf.1&omn=81491257461" target="_blank">Click <span class="bold-here">here</span> to join the Zoom Meeting</a></p>
-        <p><a class="button-link" href="https://trello.com/invite/b/66f954c797f5e6e7242ff979/ATTI8042b2b7a8f933fa679ca75826986d40003B3D20/CIC%20Europe" target="_blank">Click <span class="bold-here">here</span> to visit the Trello Board</a></p>
-        <p><a class="button-link" href="https://docs.google.com/document/d/1Ij7nHDYxZD8wL9fG9Z4CH1Bd6NDbVqr7XVZv1vIY3ko/edit?usp=sharing" target="_blank">Click <span class="bold-here">here</span> for Virtual Meeting Agenda</a></p>
-        <p style="margin-top: 20px;">Zoom Meeting Details:</p>
-        <p>Meeting ID: 379 838 9481</p>
-        <p>Passcode: 1234</p>
-    </div>
-</body>
-</html>
+      
