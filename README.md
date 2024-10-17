@@ -1,8 +1,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Page</title>
+    <meta name="EOYP Registration" content="width=device-width, initial-scale=1.0">
+    <title>EOYP Registration</title>
     <style>
         body {
             display: flex;
